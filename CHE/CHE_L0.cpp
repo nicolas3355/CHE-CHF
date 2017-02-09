@@ -11,7 +11,7 @@
 */
 
 
-#include "Ply.h"
+#include "ply.hpp"
 
 #include "Vertex.hpp"
 
@@ -23,7 +23,7 @@
 
 #include <ctime>
 
-#include <gl/glut.h>
+#include <GL/glut.h>
 
 #include <algorithm>
 

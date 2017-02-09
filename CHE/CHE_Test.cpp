@@ -13,9 +13,9 @@
 
 
 
-#include <gl/glui.h>
+#include <GL/glui.h>
 
-#include <gl/glut.h>
+#include <GL/glut.h>
 
 
 

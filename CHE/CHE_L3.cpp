@@ -10,7 +10,7 @@
 * @brief  (Compact Half-Edge Structure - Level 3)
 */
 
-#include <gl/glut.h>
+#include <GL/glut.h>
 #include <ctime>
 
 #include "CHE_L3.hpp"

@@ -11,7 +11,7 @@
 */
 
 
-#include <gl/glut.h>
+#include <GL/glut.h>
 
 #include "CHE_L2.hpp"
 
