@@ -15,7 +15,7 @@
 #include <ctime>
 #include <fstream>
 #include <algorithm>
-#include <gl/glut.h>
+#include <GL/glut.h>
 
 #include "ply.h"        /**< PLY exportation*/
 #include "fparser.h"    /**< Parses scalar Field*/  

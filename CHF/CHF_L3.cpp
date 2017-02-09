@@ -12,7 +12,7 @@
 */
 //--------------------------------------------------//
 #include <map>
-#include <gl/glut.h>
+#include <GL/glut.h>
 
 #include "CHF_L3.hpp"   /**< Level 2 inheritance*/
 #include "colorramp.h"	/**< Gl color maps*/

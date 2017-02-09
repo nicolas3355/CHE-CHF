@@ -14,7 +14,7 @@
 #include <set>
 #include <map>
 #include <stack>
-#include <gl/glut.h>
+#include <GL/glut.h>
 
 #include "colorramp.h"  /**< Gl color maps*/
 #include "CHF_L1.hpp"  /**< Level 1 inheritance*/
